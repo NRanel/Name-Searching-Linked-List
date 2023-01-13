@@ -1,7 +1,0 @@
-joe
-bob
-harry
-mary
-brian
-tom
-jerry
